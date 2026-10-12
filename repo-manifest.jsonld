@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pypa/virtualenv/commit/a857a7823c73c35935d0318b4f36e5d582691e1c",
       "git:hexsha": "a857a7823c73c35935d0318b4f36e5d582691e1c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "21.14.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "21.14.7",
+      "repolex:parsedAt": "2026-10-12T20:51:22.886821+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pypa/virtualenv/commit/a35d13d4ec2c787083c00f59ec6cd5be21992560",
