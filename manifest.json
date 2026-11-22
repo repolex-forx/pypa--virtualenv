@@ -705,6 +705,95 @@
       ],
       "ast": [
         "aggregate/ast/a5fb4a290d60776e2b3f81696bd7291913aa25d4/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a5fb4a290d60776e2b3f81696bd7291913aa25d4.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "distlib",
+          "ecosystem": "PYPI",
+          "version": "0.3.7",
+          "githubOrg": "pypa",
+          "githubRepo": "distlib",
+          "githubCommit": "ede595be71bb4635832688b39289fa996c7733c1",
+          "githubTag": "0.3.7",
+          "githubUrl": "https://github.com/pypa/distlib",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "filelock",
+          "ecosystem": "PYPI",
+          "version": "3.16.1",
+          "githubOrg": "tox-dev",
+          "githubRepo": "filelock",
+          "githubCommit": "c2c43e456b4369ecac8c932115e41b3addc5c3d6",
+          "githubTag": "3.16.1",
+          "githubUrl": "https://github.com/tox-dev/filelock",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "importlib-metadata",
+          "ecosystem": "PYPI",
+          "version": "6.6",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubUrl": "https://github.com/python/importlib_metadata",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "platformdirs",
+          "ecosystem": "PYPI",
+          "version": "3.9.1",
+          "githubOrg": "tox-dev",
+          "githubRepo": "platformdirs",
+          "githubCommit": "aadc9d01acc067131c4ea52da36624c1fe2ed001",
+          "githubTag": "3.9.1",
+          "githubUrl": "https://github.com/tox-dev/platformdirs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "python-discovery",
+          "ecosystem": "PYPI",
+          "version": "1.2.2",
+          "githubOrg": "tox-dev",
+          "githubRepo": "python-discovery",
+          "githubCommit": "50d83545a3594ce1a5425d8ec33309bc37552707",
+          "githubTag": "1.2.2",
+          "githubUrl": "https://github.com/tox-dev/python-discovery",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.13.2",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "4525e9dbbd177b4ef8a84f55ff5fe127582a071d",
+          "githubTag": "4.13.2",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "packaging",
+          "ecosystem": "PYPI",
+          "version": "26.3.0",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubUrl": "https://github.com/pypa/packaging",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/packaging/version.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
